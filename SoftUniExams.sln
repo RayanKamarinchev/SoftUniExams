@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftJail", "SoftJail\SoftJail.csproj", "{CF2B6DAF-2F42-458A-93FD-AB87133BDCF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2B6DAF-2F42-458A-93FD-AB87133BDCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2B6DAF-2F42-458A-93FD-AB87133BDCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2B6DAF-2F42-458A-93FD-AB87133BDCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2B6DAF-2F42-458A-93FD-AB87133BDCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56FE374D-016F-4E34-A2A9-050E1A291B49}
+	EndGlobalSection
+EndGlobal
